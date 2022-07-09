@@ -1,0 +1,48 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  background: url(https://images.theconversation.com/files/283285/original/file-20190709-44457-1yl0aze.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop) blue no-repeat;
+  background-size: cover;
+}
+
+.btn{
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  margin-top:-100px ;
+  margin-left: -100px;
+
+}
+
+p{
+  color: white;
+}
+
+h1{
+  color:whitesmoke;
+}
+
+#mc_embed_signup{
+  background:#fff; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif;  
+  width:600px;}
+
+#only{
+
+  width: 1000px;
+  height: 200px;
+  position: fixed;
+  margin: 0 auto;
+  left: 42%;
+  top: 45%;
+  margin-top:-100px ;
+  margin-left: -100px;
+  color: white;
+  
+
+}
